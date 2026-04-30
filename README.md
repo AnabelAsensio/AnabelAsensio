@@ -17,6 +17,8 @@ Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos 
 ---
 
 🚀 Proyectos destacados
+
+
 🚨 SOSConnect (Proyecto Final)
 
 📱 Aplicación para la gestión de emergencias en tiempo real, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
