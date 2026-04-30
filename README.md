@@ -16,29 +16,75 @@ Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos 
 
 ---
 
-## 🛠 Tecnologías
+## 🚀 Proyectos destacados
 
 ---
 
 ### 🚨 SOSConnect (Proyecto Final)
 
-Aplicación móvil orientada a la gestión de emergencias en tiempo real, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+Aplicación móvil orientada a la **gestión de emergencias en tiempo real**, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+
 Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante, facilitando una respuesta rápida y organizada.
 
-Proyecto final de DAM donde aplico arquitectura MVVM, gestión de datos y desarrollo completo de una app funcional.
+---
 
-**Tech:** Kotlin, Android, Supabase, Firebase
+### ⚙️ Funcionalidades principales
+
+* 🔗 Conexión entre usuarios/dispositivos
+* 🚨 Envío de alertas en tiempo real
+* 📍 Compartición de información clave en situaciones de emergencia
+* ☁️ Sincronización de datos mediante servicios en la nube
+
+---
+
+### 🧠 Qué aporta este proyecto
+
+Este proyecto simula un entorno real donde la **fiabilidad, rapidez y comunicación** son críticas.
+
+He trabajado en:
+
+* Arquitectura **MVVM**
+* Gestión de estado en Android
+* Integración con servicios externos (Supabase, Firebase)
+* Diseño de una app pensada para uso real
+
+---
+
+### 🛠 Tecnologías
+
+Kotlin · Android · MVVM · Supabase · Firebase
+
 👉 [Ver proyecto](#)
 
 ---
 
-## 🚀 Proyectos destacados
-
 ### 📱 Game of Thrones App
 
-Aplicación Android que consume una API pública para mostrar personajes, ver detalles y gestionar favoritos con persistencia local.
+Aplicación Android que consume una API pública para mostrar personajes del universo de Game of Thrones, permitiendo explorar información detallada y gestionar favoritos con persistencia local.
 
-**Tech:** Kotlin, Jetpack Compose, Room
+
+### ⚙️ Funcionalidades principales
+
+* 📋 Listado de personajes obtenido desde API
+* 🔍 Vista de detalle con información ampliada
+* ❤️ Sistema de favoritos persistente
+* 🌙 Modo oscuro configurable
+* 🔎 Búsqueda de personajes
+
+### 🧠 Qué demuestra este proyecto
+
+Este proyecto está enfocado en el desarrollo de aplicaciones Android modernas, aplicando:
+
+* Arquitectura **MVVM**
+* Consumo de APIs REST
+* Gestión de estado con ViewModel
+* Persistencia local con **Room**
+* UI declarativa con **Jetpack Compose**
+
+### 🛠 Tecnologías
+
+Kotlin · Jetpack Compose · Room · Retrofit · ViewModel
+
 👉 [Ver proyecto](#)
 
 ---
