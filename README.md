@@ -26,16 +26,12 @@ Aplicación móvil orientada a la **gestión de emergencias en tiempo real**, di
 
 Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante, facilitando una respuesta rápida y organizada.
 
----
-
 ### ⚙️ Funcionalidades principales
 
 * 🔗 Conexión entre usuarios/dispositivos
 * 🚨 Envío de alertas en tiempo real
 * 📍 Compartición de información clave en situaciones de emergencia
 * ☁️ Sincronización de datos mediante servicios en la nube
-
----
 
 ### 🧠 Qué aporta este proyecto
 
@@ -48,8 +44,6 @@ He trabajado en:
 * Integración con servicios externos (Supabase, Firebase)
 * Diseño de una app pensada para uso real
 
----
-
 ### 🛠 Tecnologías
 
 Kotlin · Android · MVVM · Supabase · Firebase
@@ -61,7 +55,6 @@ Kotlin · Android · MVVM · Supabase · Firebase
 ### 📱 Game of Thrones App
 
 Aplicación Android que consume una API pública para mostrar personajes del universo de Game of Thrones, permitiendo explorar información detallada y gestionar favoritos con persistencia local.
-
 
 ### ⚙️ Funcionalidades principales
 
