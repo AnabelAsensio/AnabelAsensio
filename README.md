@@ -22,7 +22,8 @@ Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos 
 
 ### 🚨 SOSConnect (Proyecto Final)
 
- Aplicación para facilitar la **ayuda inmediata en situaciones de emergencia**, permitiendo vincular varios dispositivos entre sí para actuar de forma rápida y coordinada.  
+Aplicación móvil orientada a la gestión de emergencias en tiempo real, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante, facilitando una respuesta rápida y organizada.
 
 Proyecto final de DAM donde aplico arquitectura MVVM, gestión de datos y desarrollo completo de una app funcional.
 
