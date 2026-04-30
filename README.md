@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mí
+🧠 Sobre mí
 
 Soy desarrolladora de aplicaciones multiplataforma con especial interés en el desarrollo Android.
 
@@ -16,69 +16,54 @@ Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos 
 
 ---
 
-## 🚀 Proyectos destacados
+🚀 Proyectos destacados
+🚨 SOSConnect (Proyecto Final)
+
+📱 Aplicación para la gestión de emergencias en tiempo real, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+
+Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante.
+
+⚙️ Funcionalidades principales
+
+🔗 Conexión entre usuarios/dispositivos
+🚨 Envío de alertas en tiempo real
+📍 Compartición de información crítica
+☁️ Sincronización en la nube
+
+🧠 Qué aporta
+
+Arquitectura MVVM
+Gestión de estado en Android
+Integración con servicios externos
+App orientada a uso real
+
+🛠 Tech: Kotlin · Android · MVVM · Supabase · Firebase
+👉 Ver proyecto
 
 ---
 
-### 🚨 SOSConnect (Proyecto Final)
+📱 Game of Thrones App
 
-Aplicación móvil orientada a la **gestión de emergencias en tiempo real**, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+📡 App Android que consume una API pública para mostrar personajes del universo de Game of Thrones, con gestión de favoritos y persistencia local.
 
-Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante, facilitando una respuesta rápida y organizada.
+⚙️ Funcionalidades principales
 
-### ⚙️ Funcionalidades principales
+📋 Listado de personajes desde API
+🔍 Vista de detalle
+❤️ Sistema de favoritos
+🌙 Modo oscuro
+🔎 Búsqueda
 
-* 🔗 Conexión entre usuarios/dispositivos
-* 🚨 Envío de alertas en tiempo real
-* 📍 Compartición de información clave en situaciones de emergencia
-* ☁️ Sincronización de datos mediante servicios en la nube
+🧠 Qué demuestra
 
-### 🧠 Qué aporta este proyecto
+Arquitectura MVVM
+Consumo de APIs REST
+ViewModel + estado UI
+Persistencia con Room
+UI con Jetpack Compose
 
-Este proyecto simula un entorno real donde la **fiabilidad, rapidez y comunicación** son críticas.
-
-He trabajado en:
-
-* Arquitectura **MVVM**
-* Gestión de estado en Android
-* Integración con servicios externos (Supabase, Firebase)
-* Diseño de una app pensada para uso real
-
-### 🛠 Tecnologías
-
-Kotlin · Android · MVVM · Supabase · Firebase
-
-👉 [Ver proyecto](#)
-
----
-
-### 📱 Game of Thrones App
-
-Aplicación Android que consume una API pública para mostrar personajes del universo de Game of Thrones, permitiendo explorar información detallada y gestionar favoritos con persistencia local.
-
-### ⚙️ Funcionalidades principales
-
-* 📋 Listado de personajes obtenido desde API
-* 🔍 Vista de detalle con información ampliada
-* ❤️ Sistema de favoritos persistente
-* 🌙 Modo oscuro configurable
-* 🔎 Búsqueda de personajes
-
-### 🧠 Qué demuestra este proyecto
-
-Este proyecto está enfocado en el desarrollo de aplicaciones Android modernas, aplicando:
-
-* Arquitectura **MVVM**
-* Consumo de APIs REST
-* Gestión de estado con ViewModel
-* Persistencia local con **Room**
-* UI declarativa con **Jetpack Compose**
-
-### 🛠 Tecnologías
-
-Kotlin · Jetpack Compose · Room · Retrofit · ViewModel
-
-👉 [Ver proyecto](#)
+🛠 Tech: Kotlin · Compose · Room · Retrofit · ViewModel
+👉 Ver proyecto
 
 ---
 
