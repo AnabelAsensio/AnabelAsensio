@@ -1,81 +1,91 @@
 # 👋 Hola, soy Anabel
 
-💻 Desarrolladora Junior (DAM) especializada en Android
+💻 Junior Android Developer
 📍 Barcelona, España
-🚀 Buscando mi primera oportunidad como developer
+🚀 Open to Work
 
 ---
 
-🧠 Sobre mí
+## 🧠 Sobre mí
 
-Soy desarrolladora de aplicaciones multiplataforma con especial interés en el desarrollo Android.
+Soy desarrolladora de aplicaciones multiplataforma con especial enfoque en **Android**, aunque también cuento con experiencia en backend, bases de datos y proyectos de robótica.
 
-Me gusta construir aplicaciones completas, desde el consumo de APIs hasta la gestión de datos locales, cuidando tanto la lógica como la experiencia de usuario.
+Me gusta construir aplicaciones completas, desde el consumo de APIs hasta la persistencia de datos, cuidando tanto la arquitectura como la experiencia de usuario.
 
-Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos enfocados al mundo real.
-
----
-
-🚀 Proyectos destacados
-
-
-🚨 SOSConnect (Proyecto Final)
-
-📱 Aplicación para la gestión de emergencias en tiempo real, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
-
-Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante.
-
-⚙️ Funcionalidades principales
-
-🔗 Conexión entre usuarios/dispositivos
-🚨 Envío de alertas en tiempo real
-📍 Compartición de información crítica
-☁️ Sincronización en la nube
-
-🧠 Qué aporta
-
-Arquitectura MVVM
-Gestión de estado en Android
-Integración con servicios externos
-App orientada a uso real
-
-🛠 Tech: Kotlin · Android · MVVM · Supabase · Firebase
-👉 Ver proyecto
+Actualmente estoy finalizando el ciclo DAM y desarrollando proyectos prácticos orientados a entornos reales.
 
 ---
 
-📱 Game of Thrones App
+## 🛠 Tecnologías
 
-📡 App Android que consume una API pública para mostrar personajes del universo de Game of Thrones, con gestión de favoritos y persistencia local.
-
-⚙️ Funcionalidades principales
-
-📋 Listado de personajes desde API
-🔍 Vista de detalle
-❤️ Sistema de favoritos
-🌙 Modo oscuro
-🔎 Búsqueda
-
-🧠 Qué demuestra
-
-Arquitectura MVVM
-Consumo de APIs REST
-ViewModel + estado UI
-Persistencia con Room
-UI con Jetpack Compose
-
-🛠 Tech: Kotlin · Compose · Room · Retrofit · ViewModel
-👉 Ver proyecto
+Kotlin · Android · Jetpack Compose · MVVM · Room · Retrofit
+JavaScript · Node.js
+PostgreSQL · MySQL · MongoDB
+Git · Linux
 
 ---
 
-### 🤖 Proyecto Robótica - Brazo Colaborativo Universal Robots
+## 🚀 Proyectos destacados
+
+---
+
+### 🚨 SOSConnect (Proyecto Final)
+
+Aplicación móvil orientada a la **gestión de emergencias en tiempo real**, diseñada para mejorar la comunicación y coordinación entre usuarios en situaciones críticas.
+
+Permite vincular múltiples dispositivos y enviar alertas inmediatas con información relevante para facilitar una respuesta rápida y organizada.
+
+**⚙️ Funcionalidades**
+
+* 🔗 Conexión entre usuarios/dispositivos
+* 🚨 Envío de alertas en tiempo real
+* 📍 Compartición de información clave
+* ☁️ Sincronización en la nube
+
+**🧠 Qué demuestra**
+
+* Arquitectura **MVVM**
+* Gestión de estado en Android
+* Integración con servicios externos (Supabase, Firebase)
+* Desarrollo de una app orientada a uso real
+
+**🛠 Tech:** Kotlin · Android · MVVM · Supabase · Firebase
+👉 [Ver proyecto](#)
+
+---
+
+### 📱 Game of Thrones App
+
+Aplicación Android que consume una API pública para explorar personajes, visualizar detalles y gestionar favoritos con persistencia local.
+
+**⚙️ Funcionalidades**
+
+* 📋 Listado de personajes desde API
+* 🔍 Vista de detalle
+* ❤️ Sistema de favoritos
+* 🌙 Modo oscuro
+* 🔎 Búsqueda
+
+**🧠 Qué demuestra**
+
+* Arquitectura **MVVM**
+* Consumo de APIs REST
+* Gestión de estado con ViewModel
+* Persistencia con **Room**
+* UI moderna con **Jetpack Compose**
+
+**🛠 Tech:** Kotlin · Compose · Room · Retrofit · ViewModel
+👉 [Ver proyecto](#)
+
+---
+
+### 🤖 Proyecto Robótica - Brazo Colaborativo
 
 Sistema de control de un brazo robótico mediante un mando tipo consola.
 
-Proyecto centrado en la interacción hardware-software y la comunicación XML-RPC.
+Proyecto centrado en la interacción hardware-software y comunicación en tiempo real mediante XML-RPC.
 
-**Tech:** Kotlin, control de dispositivos, integración hardware
+**🛠 Tech:** Kotlin · Control de dispositivos · Integración hardware
 👉 [Ver proyecto](#)
 
 ---
@@ -84,8 +94,8 @@ Proyecto centrado en la interacción hardware-software y la comunicación XML-RP
 
 Proyectos enfocados a la gestión de datos:
 
-* App de escritorio con JavaFX + PostgreSQL (CRUD completo)
-* Web con CRUD (en mejora actualmente)
+* Aplicación de escritorio con JavaFX + PostgreSQL (CRUD completo)
+* Aplicación web con CRUD (actualmente en mejora)
 
 👉 [Ver proyectos](#)
 
@@ -94,34 +104,18 @@ Proyectos enfocados a la gestión de datos:
 ## 📈 Actualmente
 
 * Mejorando mis proyectos para entorno profesional
-* Aprendiendo buenas prácticas en Android (MVVM, arquitectura limpia)
-* Preparándome para mi primera experiencia laboral
+* Profundizando en arquitectura Android (MVVM, buenas prácticas)
+* Preparándome para mi primera experiencia como desarrolladora
 
 ---
 
 ## 📫 Contacto
 
-* 💼 LinkedIn:  [Anabel Asensio Jurado | LinkedIn](https://www.linkedin.com/in/anabel-asensio-jurado/)  
+* 💼 LinkedIn: https://www.linkedin.com/in/anabel-asensio-jurado/
 * 📧 Email: [anabelasensio28@gmail.com](mailto:anabelasensio28@gmail.com)
 
 ---
 
 ## ⚡ Objetivo
 
-Empezar mi carrera como desarrollador en un entorno profesional, seguir aprendiendo y aportar valor desde el primer día.
-
-
-<!--
-**AnabelAsensio/AnabelAsensio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Iniciar mi carrera como desarrolladora en un entorno profesional, seguir creciendo técnicamente y aportar valor desde el primer día.
