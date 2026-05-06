@@ -1,7 +1,7 @@
 # 👋 Hola, soy Anabel
 
 💻 Junior Android Developer
-📍 Barcelona, España
+📍 Premià de Mar, Barcelona, España
 🚀 Open to Work
 
 ---
